@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Offline Mesh Messenger",
+    "slug": "offline-mesh-messenger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0b1020"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0b1020"
+      }
+    }
+  }
+}
